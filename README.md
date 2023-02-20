@@ -31,7 +31,7 @@ Users should be able to:
 
 
 ### Links
-- Live Site URL: [](https://your-live-site-url.com)
+- Live Site URL: [](https://nfor2000.github.io/NFT-preview-card-component-challenge/)
 
 ## My process
 
@@ -42,7 +42,7 @@ Users should be able to:
 - Flexbox
 - Media queries
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+
 
 ### What I learned
 
