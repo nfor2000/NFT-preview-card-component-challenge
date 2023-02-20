@@ -31,7 +31,7 @@ Users should be able to:
 
 
 ### Links
-- Live Site URL: [](https://nfor2000.github.io/NFT-preview-card-component-challenge/)
+- Live Site URL: [live site](https://nfor2000.github.io/NFT-preview-card-component-challenge/)
 
 ## My process
 
